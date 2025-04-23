@@ -1,0 +1,25 @@
+_repo: Herrana-ja-heittiona-b-Pommarin-ja-varvarin-muistelmia-sotavuosilta_75843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pekkola, Sulo-Weikko
+    gutenberg_agent_id: '58180'
+    url: http://www.gutenberg.org/2009/agents/58180
+description: ''
+gutenberg_issued: '2025-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75843'
+language: fi
+pgterms:marc905: 20250308232426pekkola
+pgterms:marc906: '1958'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Herrana ja heittiönä : $b Pommarin ja värvärin muistelmia sotavuosilta'
+url: http://www.gutenberg.org/ebooks/75843
