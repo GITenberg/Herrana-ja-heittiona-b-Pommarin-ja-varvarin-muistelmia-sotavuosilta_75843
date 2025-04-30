@@ -1,11 +1,16 @@
 _repo: Herrana-ja-heittiona-b-Pommarin-ja-varvarin-muistelmia-sotavuosilta_75843
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pekkola, Sulo-Weikko
     gutenberg_agent_id: '58180'
     url: http://www.gutenberg.org/2009/agents/58180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75843#Herrana-ja-heittiona-b-Pommarin-ja-varvarin-muistelmia-sotavuosilta
 gutenberg_issued: '2025-04-12'
 gutenberg_type: Text
 identifiers:
